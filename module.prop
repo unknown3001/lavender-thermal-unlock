@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=lavender_thermal_unlock
+name=Lavender Thermal Unlock
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=unknown3001
+description=Thermal unlock for lavender.
